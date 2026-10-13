@@ -1,4 +1,11 @@
-### 你好👋，我是 [ivanchu.auto]
+---
+專案聲名及版權公告
+本專案（Repository）之代碼架構與核心技術僅供個人作品集展示及技術交流之用。所有與特定機構相關之業務邏輯、專屬素材及數據版權均屬原版權持有人所有。未經許可，不得擅自複製、修改、散布或作商業用途。
+The code architecture and core logic in this repository are shared solely for portfolio viewing and technical demonstration purposes. Specific business logic, proprietary assets, and operational data belong to their respective copyright holders.
+All rights reserved.
+---
+
+你好👋，我是 [ivanchu.auto]
 
 我是一個專注於製作自動化項目的個人開發者。希望可以透過技術解決實際問題，並持續探索各種創新的科技應用。
 
